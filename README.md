@@ -1,1 +1,1 @@
-# responsive-design-course
+# Responsive Designe: Mobile First
